@@ -1,0 +1,20 @@
+{
+    "name": "bricks81/bricks-navigation",
+    "description": "Bricks CMS Framework - Navigation",
+    "license": "MIT",
+    "keywords": [
+        "bricks",
+        "navigation"
+    ],
+    "homepage": "https://www.bricks-cms.org",
+    "autoload": {
+        "psr-4": {
+            "Bricks\\Navigation\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false    
+}
